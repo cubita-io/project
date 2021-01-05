@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-05T01:01:46.969Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jvffEmSrWeootPJ6q1Zl" version="14.1.8" type="github">
+<mxfile modified="2021-01-05T01:08:15.606Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1m_hgx1JkDTXVif6XBpb" version="14.1.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-4" value="AWS IoT&lt;br&gt;Greengrass" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.greengrass;labelPosition=right;" parent="1" vertex="1">
           <mxGeometry x="175.5" y="281" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JEzK68qAf0EBDWzv6pxr-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/accounting/png/128/truck.png" vertex="1" parent="1">
+          <mxGeometry x="375" y="30" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
